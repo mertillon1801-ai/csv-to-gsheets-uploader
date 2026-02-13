@@ -1,0 +1,9 @@
+﻿{
+  "sheet_name": "Daily Import",
+  "worksheet_name": "data",
+  "mode": "overwrite",
+  "dedupe_key": "email",
+  "trim_whitespace": true,
+  "lowercase_columns": true,
+  "date_columns": ["created_at"]
+}
